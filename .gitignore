@@ -10,3 +10,4 @@ tic_tac_toe
 
 # System files
 .DS_Store
+_codeql_detected_source_root
