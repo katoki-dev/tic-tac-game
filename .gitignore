@@ -1,0 +1,12 @@
+# Compiled binaries
+tic_tac_toe
+*.o
+*.out
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
